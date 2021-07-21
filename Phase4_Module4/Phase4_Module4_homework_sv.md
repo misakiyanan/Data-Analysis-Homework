@@ -500,5 +500,5 @@ use homework_module4_app;
 
 ### 2. 使用Tableau对业务需求监控的指标进行可视化
 
-![tableau](/Users/xieyanan/Desktop/tableau.jpg)
+![tableau](https://github.com/misakiyanan/Data-Analysis-Homework/blob/main/Phase4_Module4/tableau.jpg)
 
